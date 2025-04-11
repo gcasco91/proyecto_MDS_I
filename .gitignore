@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos sensibles o personales
+*.env
